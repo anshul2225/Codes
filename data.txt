@@ -1,0 +1,9 @@
+// Enter each pose info on new line in following format; no need to delete this line, will  be read as comment
+// x-coordinate <space> y-coordinate <space> angle(in Degrees)
+asda
+2 1 0
+-3 2 50
+-5 2 100
+1 1 -18
+1.12315135 -1.151318431 200.536
+-2 -1.54 60
